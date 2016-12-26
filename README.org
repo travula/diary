@@ -1,20 +1,10 @@
 #+TITLE: Musings
 #+AUTHOR: Thirumal Ravula
 #+DATE: [2016-12-25 Sun]
-#+SETUPFILE: ./org-templates/level-0.org
-#+TAGS: boilerplate(b)
-#+EXCLUDE_TAGS: boilerplate
-#+OPTIONS: ^:nil
-
 
 * Introduction
   These are some of my jottings which I do rarely but of late want to do more
-  often.
+  often.  [[./src/index.org][Click here]] for all the blogs. 
 
-
-* Trip to Malana
-  This is about my trip that I undertook in the last weeks of October, 2016. 
-  
-** [[./src/trip-to-malala-part-1.org][Part I]]  
 
   
