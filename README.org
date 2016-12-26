@@ -1,4 +1,4 @@
-l#+TITLE: Musings
+#+TITLE: Musings
 #+AUTHOR: Thirumal Ravula
 #+DATE: [2016-12-25 Sun]
 #+SETUPFILE: ./org-templates/level-0.org
