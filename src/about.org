@@ -1,0 +1,13 @@
+#+TITLE: About Me
+#+AUTHOR: Thirumal Ravula
+#+DATE: [2017-06-15 Thu]
+#+SETUPFILE: ./org-templates/level-0.org
+#+TAGS: boilerplate(b)
+#+EXCLUDE_TAGS: boilerplate
+#+OPTIONS: ^:nil
+
+Tied to the idea "Small is Beautiful", does farming in his native village over
+the weekends. He attributes most of the problems that afflict us today to
+bigness. He is also of the firm belief that bigness takes away the connection
+between man and nature and allows one to sheild from owning responsiblity for
+the irreparable damage being done to EARTH. His email is =travula@gmail.com=.
