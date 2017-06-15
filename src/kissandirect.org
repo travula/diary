@@ -6,7 +6,6 @@
 #+EXCLUDE_TAGS: boilerplate
 #+OPTIONS: ^:nil
 
-* KissanDirect
   [[./images/logo.gif]]
 
 * Motivation
@@ -17,22 +16,23 @@
   quality produce; and facing a farmer: a remunerative price.  Also a myriad
   bunch of benefits would accrue both to the farmer and the consumer.  
 
+
+** comment
+   A simple scenario illustrating various players involved in moving a mango
+   from an orchard to the dining table.  If we assume x be price of kilogram of
+   mango that is determined at a market yard in an auction, the flow chart
+   helps in visualizing the actual amount the farmer gets.  An average of Rs. 3
+   /Kg is spent towards costs for harvesting and transporting his produce to
+   the market yard.  An additional 10% of x (the price a wholesaler bids in
+   open auction in market yard) is paid by the farmer to the agent who
+   facilitates the transaction between the farmer and wholesaler at the market
+   yard.  The net price that a farmer gets for a kilogram of mango is: x - 3 -
+   x*10/100 = 0.9x - 3.  From my experience in the last 5 years, x varies
+   anywhere between Rs. 7 and Rs. 12 depending on the amount of fruit coming to
+   market yard during the peak season (end of April to early June).  This means
+   a farmer makes anywhere between Rs. 4 and Rs. 7 a kilo.
+
 * Current Scenario and breaking the nexus
-
-  A simple scenario illustrating various players involved in moving a mango
-  from an orchard to the dining table.  If we assume x be price of kilogram of
-  mango that is determined at a market yard in an auction, the flow chart helps
-  in visualizing the actual amount the farmer gets.  An average of Rs. 3 /Kg is
-  spent towards costs for harvesting and transporting his produce to the market
-  yard.  An additional 10% of x (the price a wholesaler bids in open auction in
-  market yard) is paid by the farmer to the agent who facilitates the
-  transaction between the farmer and wholesaler at the market yard.  The net
-  price that a farmer gets for a kilogram of mango is: x - 3 - x*10/100 =
-  0.9x - 3.  From my experience in the last 5 years, x varies anywhere between
-  Rs. 7 and Rs. 12 depending on the amount of fruit coming to market yard
-  during the peak season (end of April to early June).  This means a farmer
-  makes anywhere between Rs. 4 and Rs. 7 a kilo.
-
   #+CAPTION: Breaking the chain
   #+NAME:   fig:1
   [[./images/fc.gif]]
@@ -45,7 +45,7 @@
   giver and the taker, a whole slew of benefits will accrue to both the
   players.
 
-* The Genesis of the Idea
+* COMMENT The Genesis of the Idea
   The idea to link the consumer and the producer came after listening to the
   experiences of one of my father's friends who lives in Hyderabad.  My father
   sent them a basket of mangoes from our farm in one of the previous years.  The
@@ -112,7 +112,7 @@
   into cash rich self sustaining units that can finance building modern urban
   facilities like sewerage lines, water lines, proper schools, hospitals etc.
 
-* Benefits of buying from KISSANDIRECT 
+* COMMENT Benefits of buying from KISSANDIRECT 
   1. The mangoes would be harvested only after they reach the ripening stage on
      the tree ensuring a sweet taste that eludes many that are procured from
      retail outlets in the city.
