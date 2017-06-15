@@ -17,7 +17,7 @@
   bunch of benefits would accrue both to the farmer and the consumer.  
 
 
-** comment
+** COMMENT comment
    A simple scenario illustrating various players involved in moving a mango
    from an orchard to the dining table.  If we assume x be price of kilogram of
    mango that is determined at a market yard in an auction, the flow chart
