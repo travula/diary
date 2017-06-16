@@ -17,4 +17,9 @@
   
 ** [[./trip-to-malala-part-1.org][Part I]]  
 
+** [[./trip-to-malala-part-2.org][Part II]]    
+
+* Kissan Direct
   
+  [[./kissandirect.org][Memo for Kissan Direct]]
+

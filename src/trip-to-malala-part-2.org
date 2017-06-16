@@ -1,10 +1,10 @@
-#+TITLE: Trip 2
-#+AUTHOR: VLEAD
+#+TITLE: Trip To Malana - Part II
+#+AUTHOR: Thirumal Ravula
 #+DATE: [2017-01-04 Wed]
+#+SETUPFILE: ./org-templates/level-0.org
 #+TAGS: boilerplate(b)
 #+EXCLUDE_TAGS: boilerplate
 #+OPTIONS: ^:nil
-
 
 What is it that we live for?  I guess to make an effort to leave an idea that
 can add beauty to the world.  With these thoughts I woke up at the gates of
