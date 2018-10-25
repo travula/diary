@@ -1,0 +1,30 @@
+#+TITLE: 
+#+AUTHOR:VLEAD
+#+DATE:
+#+SETUPFILE: ./org-templates/level-0.org
+#+TAGS: boilerplate(b)
+#+EXCLUDE_TAGS: boilerplate
+#+OPTIONS: ^:nil
+
+
+
+Why do we not organize ourselves.  I do not know about other
+industries but in IT, because it is only in the clutches of
+a few people and when a growing demand for the artisans
+manifested, it is all chaos.  The industry did not permeate
+from these artisans, instead to accomplish some other tasks,
+primarily in activities that perpetuate the furtherance of
+the hegemony of the capital, the Indian IT industry sprouted
+up.  The problem with the growth of anything in the most
+inorganic way is a dichotomy between human labor and dignity
+in the real sense where labor's primary function is to sow
+the seeds of originality.
+
+
+Capital grew it's dominance when the symbiotic relation
+between the group composed of artisans who possessed skills
+to manufacture goods; and the other group that went and
+sold; morphed into labor and capital classes where one group
+exploited the other.  When capital accumulated and new
+avenues to be prospected grew, the decision to impart
+necessary new skills moved into domain of the capital.

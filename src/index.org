@@ -23,3 +23,6 @@
   
   [[./kissandirect.org][Memo for Kissan Direct]]
 
+* Notes on Marx
+  
+  [[./notes-on-marx.org][Link]] to notes on Marx

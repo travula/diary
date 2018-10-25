@@ -1,0 +1,40 @@
+#+TITLE: Notes from the reading of =Annihilation of Caste=
+#+AUTHOR: Thirumal Ravula
+#+DATE: [2018-09-01 Sat]
+#+SETUPFILE: ./org-templates/level-0.org
+#+TAGS: boilerplate(b)
+#+EXCLUDE_TAGS: boilerplate
+#+OPTIONS: ^:nil
+
+* Introduction
+
+  Notes taken while reading the book =The Annihilation of
+  Caste=.  The book is the print of the speech that
+  Mr. Ambedkar was supposed to give to the Jat-Pat Todak
+  Mandal.
+
+
+* Quotes
+** Other Quotes
+   - Know truth as truth and untruth as untruth - Buddha
+   - He that will not reason is a bigot.  He that cannot
+     reason is a fool.  He that dare not reason is a slave -
+     H. Drummond
+
+** From Preface
+   Besides Mr.  Gandhi, many others have adversely
+   criticized my views as expressed in my speech.  But I
+   have felt that in taking notice of such adverse comments,
+   I should limit myself to Mr.  Gandhi.  This I have done
+   not because what he has said is so weighty as to deserve
+   a reply, but because to many a Hindu he is an oracle, so
+   great that when he opens his lips it is expected that the
+   argument must close and no dog must bark.
+
+   But the world owes much to rebels who would dare to argue
+   in the face of the pontiff and insist that he is not
+   infallible.  I do not care about the credit which every
+   progressive society must give to its rebels.  I shall be
+   satisfied if I make the Hindus realize that they are the
+   sick men of India, and that their sickness is causing
+   danger to the health and happiness of other Indians.

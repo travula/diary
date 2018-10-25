@@ -1,15 +1,15 @@
 #!/bin/bash
 
-if [ -d literate-tools ]; then
-    echo "literate-tools already present"
-    (cd literate-tools; git pull)
+if [ -d exp-publisher ]; then
+    echo "experiment publisher already already present"
+    (cd exp-publisher; git pull)
 else
-    git clone https://github.com/vlead/literate-tools.git
+    git clone https://gitlab.com/vlead-projects/experiments/infra/publish/exp-publisher.git
+    (cd exp-publisher)
 fi
 
-if [ -L tangle-make ]; then
+if [ -L pub-make ]; then
     echo "symlinked makefile already present"
 else 
-    ln -sf literate-tools/makefile tangle-make
+    ln -sf exp-publisher/makefile pub-make
 fi
-
