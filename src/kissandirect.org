@@ -6,7 +6,7 @@
 #+EXCLUDE_TAGS: boilerplate
 #+OPTIONS: ^:nil
 
-  [[./images/logo.gif]]
+  [[./images/logo.jpg]]
 
 * Motivation
   
@@ -35,7 +35,7 @@
 * Current Scenario and breaking the nexus
   #+CAPTION: Breaking the chain
   #+NAME:   fig:1
-  [[./images/fc.gif]]
+  [[./images/fc.jpg]]
   
   From the above diagram one can clearly see it is just one step to move the
   produce from the field to the table of a consumer.  KissanDirect is one way of
