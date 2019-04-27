@@ -10,8 +10,21 @@
 * Introduction
   These are some of my jottings which I do rarely but of late want to do more
   often.
-
-
+* Stating the problem for Phd
+  I see a potential for computation in understanding our
+  society in terms of our economic, political and social
+  organizations and how we can draw the insights from such
+  models to help restructure them for a equitable and
+  sustainable society.
+** [[./phd-sop-systems-theory.org][Systems Theory]]
+** [[./sop-collaboration.org][Cooperation]]
+* Coop Services
+  One of the solutions for a sustainable and equitable world
+  is worker ownership.  Cooperatives are the ideal solution
+  in that direction.  How does the new tools of computations
+  and information flow allow to build such worker owned cooperatives?
+** [[./first-insight.org][First Insight]]
+** [[./more-insights.org][More Insights]]
 * Trip to Malana
   This is about my trip that I undertook in the last weeks of October, 2016. 
   
