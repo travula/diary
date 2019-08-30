@@ -6,8 +6,10 @@
 #+EXCLUDE_TAGS: boilerplate
 #+OPTIONS: ^:nil
 
-I am tied to the idea "Small is Beautiful" and does farming in my native
-village over the weekends.  I attribute most of the problems that afflict us
-today to bigness.  I am also of the firm belief that bigness takes away the
-connection between man and nature and allows one to sheild from owning
-responsiblity for the irreparable damage being done to EARTH.
+I am tied to the idea "Small is Beautiful" and does farming
+in my native village over the weekends.  I attribute most of
+the problems that afflict us today to bigness.  I am also of
+the firm belief that bigness takes away the connection
+between man and nature and allows one to sheild from owning
+responsiblity for the irreparable damage being done to
+EARTH.

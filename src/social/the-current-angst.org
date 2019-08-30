@@ -1,7 +1,7 @@
 #+TITLE: The current angst
 #+AUTHOR: Thirumal Ravula
 #+DATE: [2018-09-02 Sun]
-#+SETUPFILE: ./org-templates/level-0.org
+#+SETUPFILE: ../org-templates/level-1.org
 #+TAGS: boilerplate(b)
 #+EXCLUDE_TAGS: boilerplate
 #+OPTIONS: ^:nil
@@ -12,7 +12,7 @@
   to that helplessness; and the state trying to suppress any
   notion of dissent.
 
-  The current angst is not really a about the right taking
+  The current angst is not really about the right taking
   over left, or the brahmnism trying to assert over dalit
   bahujans, that has been happening all the time in India.
 
@@ -43,4 +43,3 @@
   solidarity to lead from the just side.
 
   This is not just a moral calling but an existential one.
-

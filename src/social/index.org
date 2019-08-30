@@ -1,0 +1,22 @@
+#+TITLE: Index to Society
+#+AUTHOR: Thirumal Ravula
+#+DATE: [2019-04-27 Sat]
+#+SETUPFILE: ../org-templates/level-1.org
+#+TAGS: boilerplate(b)
+#+EXCLUDE_TAGS: boilerplate
+#+OPTIONS: ^:nil
+
+* Introduction
+  This are reflections on our current society.
+
+* Annihilation of Caste
+  These are some of the [[./annihilation-of-caste.org][jottings]] I made while reading the
+  book, Annihilation of Caste by B.R. Ambedkar.  This is not
+  not done yet, but a work in progress.
+
+* Current Angst 
+  Some [[./the-current-angst.org][perspectives]] I gained while interacting with my
+  friends.  The problem is, a majority of us who have the
+  privilege to lead a decent life atleast materially are
+  loosing sight of how such a life be sustainable and
+  available to all others.
