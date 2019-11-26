@@ -11,7 +11,7 @@
   These are some of my jottings which I do rarely but of late want to do more
   often.
 
-* Stating the problem for Phd
+* [[./papers/index.org][Stating the problem for Phd]].
   I see a potential for computation in understanding our
   society in terms of our economic, political and social
   organizations and how we can draw the insights from such
@@ -23,22 +23,20 @@
   One of the solutions for a sustainable and equitable world
   is worker ownership.  Cooperatives are the ideal solution
   in that direction.  How does the new tools of computations
-  and information flow allow to build such worker owned cooperatives?
-** [[./first-insight.org][First Insight]]
-** [[./more-insights.org][More Insights]]
-* Trip to Malana
-  This is about my trip that I undertook in the last weeks of October, 2016. 
-** [[./trip-to-malala-part-1.org][Part I]]  
-
-** [[./trip-to-malala-part-2.org][Part II]]    
+  and information flow allow to build such worker owned
+  cooperatives?
+** [[./insights/index.org][First Insight]]
+** [[./insights/more-insights.org][More Insights]]
+* [[./trips/index.org][Trips]]
+  Index to [[./trips/index.org][trips]]
 
 * [[./social/index.org][Our Current Society]]
   [[./social/index.org][Perspectives]] on where we are headed
-* Kissan Direct
+* Kissan Cooperative
   
-  [[./kissandirect.org][Memo for Kissan Direct]]
+  [[./kissan-coop/index.org][Memo for a Kissan Cooperative]]
 
-* Notes on Marx
-  [[./notes-on-marx.org][Link]] to notes on Marx
+* Notes
+  [[./notes/index.org][Index]] to notes.
 * About Me
-  [[./about.org][Link]] to who I am.
+  [[./about/index.org][Index]] to who I am.

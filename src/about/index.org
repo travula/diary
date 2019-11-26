@@ -1,7 +1,7 @@
 #+TITLE: About Me
 #+AUTHOR: Thirumal Ravula
 #+DATE: [2017-06-15 Thu]
-#+SETUPFILE: ./org-templates/level-0.org
+#+SETUPFILE: ../org-templates/level-1.org
 #+TAGS: boilerplate(b)
 #+EXCLUDE_TAGS: boilerplate
 #+OPTIONS: ^:nil

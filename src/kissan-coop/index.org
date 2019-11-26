@@ -1,12 +1,12 @@
 #+TITLE: Courage to Imagine - KissanDirect
 #+AUTHOR: Thirumal Ravula
 #+DATE: [2017-06-15 Thu]
-#+SETUPFILE: ./org-templates/level-0.org
+#+SETUPFILE: ../org-templates/level-1.org
 #+TAGS: boilerplate(b)
 #+EXCLUDE_TAGS: boilerplate
 #+OPTIONS: ^:nil
 
-  [[./images/logo.jpg]]
+  [[../images/logo.jpg]]
 
 * Motivation
   
@@ -35,7 +35,7 @@
 * Current Scenario and breaking the nexus
   #+CAPTION: Breaking the chain
   #+NAME:   fig:1
-  [[./images/fc.jpg]]
+  [[../images/fc.jpg]]
   
   From the above diagram one can clearly see it is just one step to move the
   produce from the field to the table of a consumer.  KissanDirect is one way of

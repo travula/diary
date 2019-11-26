@@ -1,0 +1,17 @@
+#+TITLE: Trips
+#+AUTHOR: Thirumal Ravula
+#+DATE: [2019-11-26 Tue]
+#+SETUPFILE: ../org-templates/level-1.org
+#+TAGS: boilerplate(b)
+#+EXCLUDE_TAGS: boilerplate
+#+OPTIONS: ^:nil
+
+* Introduction
+This document is an index to the trips.
+
+* Trip to Malana
+  This is about my trip that I undertook in the last weeks
+  of October, 2016.
+** [[./trip-to-malala-part-1.org][Part I]]  
+
+** [[./trip-to-malala-part-2.org][Part II]]

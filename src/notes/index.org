@@ -1,0 +1,17 @@
+#+TITLE: Index to Notes
+#+AUTHOR: Thirumal Ravula
+#+DATE: [2019-11-26 Tue]
+#+SETUPFILE: ../org-templates/level-1.org
+#+TAGS: boilerplate(b)
+#+EXCLUDE_TAGS: boilerplate
+#+OPTIONS: ^:nil
+
+* Introduction
+This document is index to the notes.
+
+* [[./progress.org][Notes on Progress]]
+  This [[./progress.org][note]] is a blog on my progress with the research.
+
+* [[./notes-on-marx.org][Notes on Marx]]
+  This is [[./notes-on-marx.org][notes]] made after reading an article.
+  
