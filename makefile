@@ -42,3 +42,5 @@ clean:
 
 clean-infra:
 	make -f pub-make clean-infra
+export:
+	(rm -rf ../travula.github.io/*;	rsync -a build/docs/ ../travula.github.io/)

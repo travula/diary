@@ -38,5 +38,7 @@
 
 * Notes
   [[./notes/index.org][Index]] to notes.
+* Youth Center
+  [[./youth-center/index.org][Index]] to building the center
 * About Me
   [[./about/index.org][Index]] to who I am.
