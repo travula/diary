@@ -110,14 +110,14 @@
   [[./images/pic6.jpg]]
 
 #+BEGIN_EXPORT html
-<p>
+<div>
+<p
   <video width="320" height="240" controls>
     <source src="./images/video.mp4" type="video/mp4">
   </video>
 </p>
+</div>
 #+END_EXPORT
-
-  [[./images/video.mp4]]
 
   [[./images/pic7.jpg]]
 
