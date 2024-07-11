@@ -1,6 +1,6 @@
 #+TITLE: Musings
 #+AUTHOR: Thirumal Ravula
-#+DATE: [2016-12-25 Sun]
+#+DATE: [2024-05-23 Thu]
 #+SETUPFILE: ./org-templates/level-0.org
 #+TAGS: boilerplate(b)
 #+EXCLUDE_TAGS: boilerplate
@@ -36,9 +36,11 @@
   
   [[./kissan-coop/index.org][Memo for a Kissan Cooperative]]
 
-* Notes
-  [[./notes/index.org][Index]] to notes.
+* Progress on Phd
+  [[./progress/index.org][Index]] to the progress.
 * Youth Center
-  [[./youth-center/index.org][Index]] to building the center
+  [[./youth-center/index.org][Index]] to building the center.
+* Computer Center
+  [[./computer-center/index.org][Index]] to building the computer center.
 * About Me
   [[./about/index.org][Index]] to who I am.

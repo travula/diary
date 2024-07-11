@@ -15,3 +15,4 @@ This document is an index to the trips.
 ** [[./trip-to-malala-part-1.org][Part I]]  
 
 ** [[./trip-to-malala-part-2.org][Part II]]
+* [[./reflections-on-ajanta-caves.org][Ajanta Caves]]
