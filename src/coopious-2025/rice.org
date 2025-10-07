@@ -1,0 +1,108 @@
+
+#+TITLE: Coopious - Copious Cooperation
+#+AUTHOR: Thirumal Ravula
+#+DATE: [2025-10-05 Sun]
+#+SETUPFILE: ../org-templates/level-1.org
+#+TAGS: boilerplate(b)
+#+EXCLUDE_TAGS: boilerplate
+#+OPTIONS: ^:nil
+
+* Purpose
+  
+  Sale of organic and heirloom rice varieties.
+
+* Varieties and Prices
+
+| S.No. | Variety        | Price / kg (Rs) |
+|-------+----------------+-----------------|
+|    1. | Moligolukulu   |             120 |
+|-------+----------------+-----------------|
+|    2. | Mysore Malliga |              80 |
+|-------+----------------+-----------------|
+
+* Description of varieties
+** General
+Both the varieties are grown in 2024 =khariff= season.  No
+fertilizer, pesticide or herbicide is used.  The land is
+tilled with a tractor, nursery beds were raised and later
+transplanted. Cover crops like sun hemp were raised and
+tilled into the land to provide fertility.  Fermented cow
+urine was given every week to act as a starter for
+replenishing micro organisms.  Harvesting was done with
+human labor since the stalk of =moligolukulu= grows up to 6
+feet and the tillering is profuse making it difficult for a
+machine to harvest.
+
+The way forward is to switch to natural farming to
+circumvent dependency on fossil fuel for tilling.  Tilling
+also exposes the soil to sun resulting in the escape of
+carbon from soil to atmosphere contributing to greenhouse
+gases.  Carbon has also another important role in conserving
+the moisture of the soil.  The more the carbon in the soil
+the greater the moisture allowing earthworms and other micro
+organisms to flourish to create a richer ecosystem.  Fukuoka
+has showed that yields in natural farming are comparable or
+higher than conventional agriculture using chemicals.
+
+The price is set higher than the prices of hybrid varieties
+ available in any super market since the yield is lower and
+ the production costs are higher due to the greater extant
+ of manual labor in our process.
+
+We are working on a self organizing platform where it should
+be possible for all the stakeholders in a supply chain to
+democratically define semantics of any process in the
+system, evaluate the performance and push the process in its
+direction - equal compensation for equal labor time (if this
+is the definition of the system), non-hierarchical,
+sustainability etc. - through tighter feedback cycles.
+Therefore all the variables that are inherent to any
+production are visible to allow consumers make conscious
+decisions and to some extent remedy the ills that arise from
+commodity fetishism.
+
+
+** Moligolukulu
+Moligolukulu is a long duration heirloom variety.  The crop
+duration is 210-220 days.  All [[https://www.downtoearth.org.in/food/silent-famine-has-india-weakened-its-own-nutritional-security--93956][heirloom long duration]]
+varieties are high in nutrition.  Only the husk is removed
+while keeping the entire bran.  This particular variety is
+rich in oil content and therefore tastes like cream. Any
+whole rice when cooked splits at the end but not this one.
+It is easy on the stomach and I relished chewing even cold
+rice several hours after rice is cooked.  There are a very
+few farmers who are reviving this variety.
+
+The best way to cook is to boil the rice with lot of water
+(may be four times the rice) without a lid.  After the rice
+is 70% cooked, switch off the flame and let it rest for 5-10
+minutes with lid on top of the bowl.  The heat already
+present will cook the rice.  After 5 minutes or little later
+the rice should be fully cooked.  At this point, drain the
+water into a bowl and cook the rice without lid for another
+6 - 8 minutes on a low flame to ensure extra moisture has
+evaporated.  Adjust the timing accordingly.  Switch off the
+flame and let the rice sit for another 10 minutes without
+the lid.  Do not throw away the drained water, have it next
+day in the morning or any time when low on energy.  It is a
+great probiotic.
+
+** Mysore Malliga
+
+This is another medium duration (130-140 days) heirloom fine
+variety.  The literal translation of the name of this
+variety is =mysore jasmines=.  It is semi polished. This is
+a great substitute for any of the current popular hydrid
+fine varieties.  The rice comes out really beautiful and is
+considered good for the children according to the internet
+mythology.  Since it is organically grown and is a heirloom
+variety the default benefits are already present.
+
+
+* Place your order
+  Please fill the relevant form to place the order.
+
+  - Default [[https://forms.gle/bBBt9BnKKrcTKeBH8][form]].
+
+  - IIIT Faculty, please fill this [[https://forms.gle/fKiWRZzzEos6SrdC9][form]].
+
