@@ -14,7 +14,7 @@
 
 | S.No. | Variety        | Price / kg (Rs) |
 |-------+----------------+-----------------|
-|    1. | Moligolukulu   |             120 |
+|    1. | Molagolukulu   |             120 |
 |-------+----------------+-----------------|
 |    2. | Mysore Malliga |              80 |
 |-------+----------------+-----------------|
@@ -35,7 +35,7 @@ transplanted. Cover crops like sun hemp were raised and
 tilled into the land to provide fertility.  Fermented cow
 urine was given every week to act as a starter for
 replenishing micro organisms.  Harvesting was done with
-human labor since the stalk of =moligolukulu= grows up to 6
+human labor since the stalk of =molagolukulu= grows up to 6
 feet and the tillering is profuse making it difficult for a
 machine to harvest.
 
@@ -68,8 +68,8 @@ decisions and to some extent remedy the ills that arise from
 commodity fetishism.
 
 
-** Moligolukulu
-Moligolukulu is a long duration heirloom variety.  The crop
+** Molagolukulu
+Molagolukulu is a long duration heirloom variety.  The crop
 duration is 210-220 days.  All [[https://www.downtoearth.org.in/food/silent-famine-has-india-weakened-its-own-nutritional-security--93956][heirloom long duration]]
 varieties are high in nutrition.  Only the husk is removed
 while keeping the entire bran.  This particular variety is
